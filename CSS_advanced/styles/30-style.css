@@ -257,7 +257,7 @@ a:active {
     overflow: hidden;
 }
 
-.card-work .card-outer {
+.card-work .card-image {
     height: 30rem;
     width: 100%;
     object-fit: cover;
