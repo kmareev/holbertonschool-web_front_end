@@ -136,13 +136,13 @@ body {
     top: 0;
     left: 0;
     background-color: var(--color-white);
+    width: 0;
     height: 0.2rem;
 }
 
 .nav .nav-item::before .nav-link:hover {
     background-color: var(--color-primary);
     width: 100%;
-
 }
 
 .nav .nav-link:hover {
